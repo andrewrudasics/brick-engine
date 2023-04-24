@@ -1,2 +1,2 @@
 # brick-engine
-My personal vulkan renderer
+My personal rendering engine
